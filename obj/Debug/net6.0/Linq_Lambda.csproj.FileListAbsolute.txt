@@ -1,0 +1,15 @@
+C:\Users\LPCAMPOS\Downloads\Dev\Linq_Lambda\bin\Debug\net6.0\Linq_Lambda.exe
+C:\Users\LPCAMPOS\Downloads\Dev\Linq_Lambda\bin\Debug\net6.0\Linq_Lambda.deps.json
+C:\Users\LPCAMPOS\Downloads\Dev\Linq_Lambda\bin\Debug\net6.0\Linq_Lambda.runtimeconfig.json
+C:\Users\LPCAMPOS\Downloads\Dev\Linq_Lambda\bin\Debug\net6.0\Linq_Lambda.dll
+C:\Users\LPCAMPOS\Downloads\Dev\Linq_Lambda\bin\Debug\net6.0\Linq_Lambda.pdb
+C:\Users\LPCAMPOS\Downloads\Dev\Linq_Lambda\obj\Debug\net6.0\Linq_Lambda.csproj.AssemblyReference.cache
+C:\Users\LPCAMPOS\Downloads\Dev\Linq_Lambda\obj\Debug\net6.0\Linq_Lambda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LPCAMPOS\Downloads\Dev\Linq_Lambda\obj\Debug\net6.0\Linq_Lambda.AssemblyInfoInputs.cache
+C:\Users\LPCAMPOS\Downloads\Dev\Linq_Lambda\obj\Debug\net6.0\Linq_Lambda.AssemblyInfo.cs
+C:\Users\LPCAMPOS\Downloads\Dev\Linq_Lambda\obj\Debug\net6.0\Linq_Lambda.csproj.CoreCompileInputs.cache
+C:\Users\LPCAMPOS\Downloads\Dev\Linq_Lambda\obj\Debug\net6.0\Linq_Lambda.dll
+C:\Users\LPCAMPOS\Downloads\Dev\Linq_Lambda\obj\Debug\net6.0\refint\Linq_Lambda.dll
+C:\Users\LPCAMPOS\Downloads\Dev\Linq_Lambda\obj\Debug\net6.0\Linq_Lambda.pdb
+C:\Users\LPCAMPOS\Downloads\Dev\Linq_Lambda\obj\Debug\net6.0\Linq_Lambda.genruntimeconfig.cache
+C:\Users\LPCAMPOS\Downloads\Dev\Linq_Lambda\obj\Debug\net6.0\ref\Linq_Lambda.dll
